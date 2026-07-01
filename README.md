@@ -21,98 +21,98 @@
 <details>
 <summary><h3>คลิกเพื่อดูรายชื่อม็อดที่รองรับและเครดิตผู้สร้างทั้งหมด (92 ตัว)</h3></summary>
 
-| ชื่อม็อด | ผู้สร้าง (Author) | Nexus Mods |
+| ชื่อม็อด | ผู้สร้าง (Author) | Nexus |
 | :--- | :--- | :---: |
-| Animated Clothes | Gervig91 | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/6117) |
-| Animated East Scarp Fish | Gervig91 ~zBGEdit/CPA2SC | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/10913) |
-| Animated Fish | Gervig91 ~zBGEdit/CPA2SC | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/5735) |
-| Animated Fish SVE | Gervig91 ~zBGEdit/CPA2SC | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/6089) |
-| Animated Food and Drinks | Gervig91 ~zBGEdit/CPA2SC | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/5607) |
-| Animated Furniture and Stuff | Gervig91 ~zBGEdit/CPA2SC | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/5662) |
-| Animated Ridgeside Village Fish | Gervig91 | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/7353) |
-| Animated Slime Eggs and Loot | Gervig91 ~zBGEdit/CPA2SC | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/5642) |
-| Automate | Pathoschild | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1063) |
-| Better Crafting | Khloe Leclair | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/11115) |
-| Button's Extra Trigger Action Stuff | Spiderbuttons | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/27100) |
-| CJB Cheats Menu | CJBok and Pathoschild | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/4) |
-| CJB Item Spawner | CJBok and Pathoschild | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/93) |
+| Animated Clothes | Gervig91 | [🔗](https://www.nexusmods.com/stardewvalley/mods/6117) |
+| Animated East Scarp Fish | Gervig91 ~zBGEdit/CPA2SC | [🔗](https://www.nexusmods.com/stardewvalley/mods/10913) |
+| Animated Fish | Gervig91 ~zBGEdit/CPA2SC | [🔗](https://www.nexusmods.com/stardewvalley/mods/5735) |
+| Animated Fish SVE | Gervig91 ~zBGEdit/CPA2SC | [🔗](https://www.nexusmods.com/stardewvalley/mods/6089) |
+| Animated Food and Drinks | Gervig91 ~zBGEdit/CPA2SC | [🔗](https://www.nexusmods.com/stardewvalley/mods/5607) |
+| Animated Furniture and Stuff | Gervig91 ~zBGEdit/CPA2SC | [🔗](https://www.nexusmods.com/stardewvalley/mods/5662) |
+| Animated Ridgeside Village Fish | Gervig91 | [🔗](https://www.nexusmods.com/stardewvalley/mods/7353) |
+| Animated Slime Eggs and Loot | Gervig91 ~zBGEdit/CPA2SC | [🔗](https://www.nexusmods.com/stardewvalley/mods/5642) |
+| Automate | Pathoschild | [🔗](https://www.nexusmods.com/stardewvalley/mods/1063) |
+| Better Crafting | Khloe Leclair | [🔗](https://www.nexusmods.com/stardewvalley/mods/11115) |
+| Button's Extra Trigger Action Stuff | Spiderbuttons | [🔗](https://www.nexusmods.com/stardewvalley/mods/27100) |
+| CJB Cheats Menu | CJBok and Pathoschild | [🔗](https://www.nexusmods.com/stardewvalley/mods/4) |
+| CJB Item Spawner | CJBok and Pathoschild | [🔗](https://www.nexusmods.com/stardewvalley/mods/93) |
 | Console Commands | SMAPI | - |
-| Content Patcher | Pathoschild | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1915) |
-| Content Patcher Animations | spacechase0 | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/3853) |
-| Convenient Inventory | gaussfire | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/10384) |
-| Custom Companions | PeacefulEnd | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/8626) |
-| Deluxe Journal | kauf0 | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/43805) |
-| Downhill Project | Kiyugamods | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/32872) |
+| Content Patcher | Pathoschild | [🔗](https://www.nexusmods.com/stardewvalley/mods/1915) |
+| Content Patcher Animations | spacechase0 | [🔗](https://www.nexusmods.com/stardewvalley/mods/3853) |
+| Convenient Inventory | gaussfire | [🔗](https://www.nexusmods.com/stardewvalley/mods/10384) |
+| Custom Companions | PeacefulEnd | [🔗](https://www.nexusmods.com/stardewvalley/mods/8626) |
+| Deluxe Journal | kauf0 | [🔗](https://www.nexusmods.com/stardewvalley/mods/43805) |
+| Downhill Project | Kiyugamods | [🔗](https://www.nexusmods.com/stardewvalley/mods/32872) |
 | Downhill Project Extras | Kiyugamods | - |
-| Downhill Project NPCs | Kiyugamods | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/32872) |
+| Downhill Project NPCs | Kiyugamods | [🔗](https://www.nexusmods.com/stardewvalley/mods/32872) |
 | East Scarp: Barber Shop | mushymato | - |
 | East Scarp: C# | atravita | - |
 | East Scarp: Locations | LemurKat | - |
 | East Scarp: NPCs | Lemurkat | - |
-| Eli & Dylan | Tenebrous Nova | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/13883) |
+| Eli & Dylan | Tenebrous Nova | [🔗](https://www.nexusmods.com/stardewvalley/mods/13883) |
 | Eli & Dylan- Soot | Tenebrous Nova | - |
 | Eli and Dylan Code | atravita | - |
-| Elle's Seasonal Buildings | Elle/Junimods | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1993) |
-| Ellie's Ideal Greenhouse | Ellibehr | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/7497) |
-| Farm Type Manager (FTM) | Esca | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/3231) |
+| Elle's Seasonal Buildings | Elle/Junimods | [🔗](https://www.nexusmods.com/stardewvalley/mods/1993) |
+| Ellie's Ideal Greenhouse | Ellibehr | [🔗](https://www.nexusmods.com/stardewvalley/mods/7497) |
+| Farm Type Manager (FTM) | Esca | [🔗](https://www.nexusmods.com/stardewvalley/mods/3231) |
 | Forage Settings East Scarp | Lemurkat | - |
-| GI Extra locations - ContentPatcher | mistyspring | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/42648) |
-| GI Extra locations - FarmTypeManager | mistyspring | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1) |
-| Generic Mod Config Menu | kittycatcasey | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/5098) |
-| Ginger Island Extra Locations - redux | mistyspring | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1) |
-| HxW Tilesheets | HimeTarts | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/20139) |
-| Immersive Farm 2 Remastered - THAI | FlashShifter (Original Author: zanderb14) | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/7255) |
-| Item extensions | mistyspring | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/20357) |
-| Leilani | ZoeDoll | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/9375) |
-| Livestock Bazaar | mushymato | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/29997) |
-| Lnh's Peaceful Farm | Lnh | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/24185) |
-| Lookup Anything | Pathoschild | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/541) |
-| Lumisteria Tilesheets - Indoor | Lumisteria | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/9599) |
-| Lumisteria Tilesheets - Outdoor | Lumisteria | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/10448) |
-| Mail Framework Mod | Digus | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1536) |
-| Mapping Extensions and Extra Properties (MEEP) | DecidedlyHuman | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/14493) |
-| Mini Bars | Coldopa | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/8329) |
-| MistyCore | mistyspring | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/41330) |
-| NPC Map Locations | Bouhm | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/239) |
-| Nora The Herpetologist | Bagi | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/18176) |
-| Part of the Community | Brandon Marquis Markail Green (Space Baby), 1.6 update by Nikki864, GMCM menu by MickeyMik (Eela11) | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/923) |
+| GI Extra locations - ContentPatcher | mistyspring | [🔗](https://www.nexusmods.com/stardewvalley/mods/42648) |
+| GI Extra locations - FarmTypeManager | mistyspring | [🔗](https://www.nexusmods.com/stardewvalley/mods/1) |
+| Generic Mod Config Menu | kittycatcasey | [🔗](https://www.nexusmods.com/stardewvalley/mods/5098) |
+| Ginger Island Extra Locations - redux | mistyspring | [🔗](https://www.nexusmods.com/stardewvalley/mods/1) |
+| HxW Tilesheets | HimeTarts | [🔗](https://www.nexusmods.com/stardewvalley/mods/20139) |
+| Immersive Farm 2 Remastered - THAI | FlashShifter (Original Author: zanderb14) | [🔗](https://www.nexusmods.com/stardewvalley/mods/7255) |
+| Item extensions | mistyspring | [🔗](https://www.nexusmods.com/stardewvalley/mods/20357) |
+| Leilani | ZoeDoll | [🔗](https://www.nexusmods.com/stardewvalley/mods/9375) |
+| Livestock Bazaar | mushymato | [🔗](https://www.nexusmods.com/stardewvalley/mods/29997) |
+| Lnh's Peaceful Farm | Lnh | [🔗](https://www.nexusmods.com/stardewvalley/mods/24185) |
+| Lookup Anything | Pathoschild | [🔗](https://www.nexusmods.com/stardewvalley/mods/541) |
+| Lumisteria Tilesheets - Indoor | Lumisteria | [🔗](https://www.nexusmods.com/stardewvalley/mods/9599) |
+| Lumisteria Tilesheets - Outdoor | Lumisteria | [🔗](https://www.nexusmods.com/stardewvalley/mods/10448) |
+| Mail Framework Mod | Digus | [🔗](https://www.nexusmods.com/stardewvalley/mods/1536) |
+| Mapping Extensions and Extra Properties (MEEP) | DecidedlyHuman | [🔗](https://www.nexusmods.com/stardewvalley/mods/14493) |
+| Mini Bars | Coldopa | [🔗](https://www.nexusmods.com/stardewvalley/mods/8329) |
+| MistyCore | mistyspring | [🔗](https://www.nexusmods.com/stardewvalley/mods/41330) |
+| NPC Map Locations | Bouhm | [🔗](https://www.nexusmods.com/stardewvalley/mods/239) |
+| Nora The Herpetologist | Bagi | [🔗](https://www.nexusmods.com/stardewvalley/mods/18176) |
+| Part of the Community | Brandon Marquis Markail Green (Space Baby), 1.6 update by Nikki864, GMCM menu by MickeyMik (Eela11) | [🔗](https://www.nexusmods.com/stardewvalley/mods/923) |
 | PortraitsForAll | mushymato | - |
-| PredictReactionToGift | YunHikari | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/28556) |
-| Quest Helper | aedenthorn | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/41150) |
-| Relocate Buildings And Farm Animals | mouahrara | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/20606) |
-| Remapping | Vlgor | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/29049) |
-| Ridgeside Village Seasonal Outfits | Rafseazz | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/18202) |
-| Ridgeside Village [Content Patcher component] | Rafseazz | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/7286) |
-| Ridgeside Village [Custom Companions component] | Rafseazz | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1) |
-| Ridgeside Village [Farm Type Manager component] | Rafseazz | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1) |
-| Ridgeside Village [SMAPI component] | Rafseazz | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1) |
+| PredictReactionToGift | YunHikari | [🔗](https://www.nexusmods.com/stardewvalley/mods/28556) |
+| Quest Helper | aedenthorn | [🔗](https://www.nexusmods.com/stardewvalley/mods/41150) |
+| Relocate Buildings And Farm Animals | mouahrara | [🔗](https://www.nexusmods.com/stardewvalley/mods/20606) |
+| Remapping | Vlgor | [🔗](https://www.nexusmods.com/stardewvalley/mods/29049) |
+| Ridgeside Village Seasonal Outfits | Rafseazz | [🔗](https://www.nexusmods.com/stardewvalley/mods/18202) |
+| Ridgeside Village [Content Patcher component] | Rafseazz | [🔗](https://www.nexusmods.com/stardewvalley/mods/7286) |
+| Ridgeside Village [Custom Companions component] | Rafseazz | [🔗](https://www.nexusmods.com/stardewvalley/mods/1) |
+| Ridgeside Village [Farm Type Manager component] | Rafseazz | [🔗](https://www.nexusmods.com/stardewvalley/mods/1) |
+| Ridgeside Village [SMAPI component] | Rafseazz | [🔗](https://www.nexusmods.com/stardewvalley/mods/1) |
 | Save Backup | SMAPI | - |
-| Seasonal Mariner to Mermaid | JennaJuffuffles | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/22799) |
-| SinZational Speedy Solutions | SinZ | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/37301) |
-| Sitting Restores Energy | Dylan James | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/42891) |
-| Skip or Socialize | Dylan James | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/42940) |
-| Social Page Order Redux | aedenthorn, FlyingTNT | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/23374) |
-| SpaceCore | kittycatcasey | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1348) |
-| Standardized Seed Sprites | 7eventy7 | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/21305) |
-| Stardew Valley - THAI | Translator Army x 'ELL | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/7052) |
+| Seasonal Mariner to Mermaid | JennaJuffuffles | [🔗](https://www.nexusmods.com/stardewvalley/mods/22799) |
+| SinZational Speedy Solutions | SinZ | [🔗](https://www.nexusmods.com/stardewvalley/mods/37301) |
+| Sitting Restores Energy | Dylan James | [🔗](https://www.nexusmods.com/stardewvalley/mods/42891) |
+| Skip or Socialize | Dylan James | [🔗](https://www.nexusmods.com/stardewvalley/mods/42940) |
+| Social Page Order Redux | aedenthorn, FlyingTNT | [🔗](https://www.nexusmods.com/stardewvalley/mods/23374) |
+| SpaceCore | kittycatcasey | [🔗](https://www.nexusmods.com/stardewvalley/mods/1348) |
+| Standardized Seed Sprites | 7eventy7 | [🔗](https://www.nexusmods.com/stardewvalley/mods/21305) |
+| Stardew Valley - THAI | Translator Army x 'ELL | [🔗](https://www.nexusmods.com/stardewvalley/mods/7052) |
 | Stardew Valley Expanded | FlashShifter, Esca, and kittycatcasey | - |
 | Stardew Valley Expanded Farm Type Manager | FlashShifter | - |
 | Stardew Valley Expanded Forage Locations - Immersive Farm 2 | FlashShifter | - |
-| StardewHack | bcmpinc | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/3213) |
-| StardewUI | focustense | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/43861) |
-| Sword & Sorcery [CP] | DestyNova | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/12369) |
+| StardewHack | bcmpinc | [🔗](https://www.nexusmods.com/stardewvalley/mods/3213) |
+| StardewUI | focustense | [🔗](https://www.nexusmods.com/stardewvalley/mods/43861) |
+| Sword & Sorcery [CP] | DestyNova | [🔗](https://www.nexusmods.com/stardewvalley/mods/12369) |
 | Sword and Sorcery (SMAPI Component) | EnderTedi, 7thAxis, KittyCatCasey | - |
-| TDIT - Portraits for Extras | cresolyn & Dolphin Is Not a Fish | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/35358) |
-| Thai Font Adjuster | 'ELL and NRTnarathip | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/9586) |
-| Tidy Pam | Fippsie | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/2306) |
-| Tiny Totem Statue Obelisks | JennaJuffuffles | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/23118) |
-| Tractor Mod | Pathoschild | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/1401) |
-| TrinketTinker | mushymato | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/29073) |
-| UI Info Suite 2 Alternative | DazUki | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/43127) |
-| Unlockable Bundles | DeLiXx | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/17265) |
-| Wear More Rings | bcmpinc | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/3214) |
-| World Navigator | pneuma163 | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/28256) |
-| [CP] Additional Farm Cave | Tikamin557 | [🔗 Link](https://www.nexusmods.com/stardewvalley/mods/14109) |
+| TDIT - Portraits for Extras | cresolyn & Dolphin Is Not a Fish | [🔗](https://www.nexusmods.com/stardewvalley/mods/35358) |
+| Thai Font Adjuster | 'ELL and NRTnarathip | [🔗](https://www.nexusmods.com/stardewvalley/mods/9586) |
+| Tidy Pam | Fippsie | [🔗](https://www.nexusmods.com/stardewvalley/mods/2306) |
+| Tiny Totem Statue Obelisks | JennaJuffuffles | [🔗](https://www.nexusmods.com/stardewvalley/mods/23118) |
+| Tractor Mod | Pathoschild | [🔗](https://www.nexusmods.com/stardewvalley/mods/1401) |
+| TrinketTinker | mushymato | [🔗](https://www.nexusmods.com/stardewvalley/mods/29073) |
+| UI Info Suite 2 Alternative | DazUki | [🔗](https://www.nexusmods.com/stardewvalley/mods/43127) |
+| Unlockable Bundles | DeLiXx | [🔗](https://www.nexusmods.com/stardewvalley/mods/17265) |
+| Wear More Rings | bcmpinc | [🔗](https://www.nexusmods.com/stardewvalley/mods/3214) |
+| World Navigator | pneuma163 | [🔗](https://www.nexusmods.com/stardewvalley/mods/28256) |
+| [CP] Additional Farm Cave | Tikamin557 | [🔗](https://www.nexusmods.com/stardewvalley/mods/14109) |
 | [CP] Skip or Socialize | Dylan James | - |
 | [FTM] Additional Farm Cave | Tikamin557 | - |
 </details>
