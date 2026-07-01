@@ -7,7 +7,7 @@
 ยินดีต้อนรับสู่สคริปต์เสริมสำหรับผู้เล่น Stardew Valley ชาวไทย! เครื่องมือนี้ถูกออกแบบมาเพื่อ **แปลคำอธิบาย (Description) ในเมนูตั้งค่า Generic Mod Config Menu (GMCM) ให้เป็นภาษาไทย** สไตล์เกมเมอร์ อ่านง่าย เข้าใจไว
 
 <p align="center">
-  <img src="../banners/mods_banner.png" alt="ฟีเจอร์หลัก" width="300">
+  <img src="https://raw.githubusercontent.com/AppleBoiy/stardew-thai-translations/main/banners/mods_banner.png" alt="ฟีเจอร์หลัก" width="300">
 </p>
 
 โดยปกติแล้วผู้สร้างม็อดหลายท่านอาจจะยังไม่รองรับระบบแปลภาษา (i18n) ในส่วนของคำอธิบาย สคริปต์นี้จึงถูกสร้างขึ้นมาเพื่อ "แอบ" เข้าไปแก้ไขไฟล์ `manifest.json` ของม็อดในเครื่องของคุณ เพื่อยัดคำอธิบายภาษาไทยเข้าไปให้โดยอัตโนมัติ
@@ -122,7 +122,7 @@
 
 
 <p align="center">
-  <img src="../banners/install_banner.png" alt="วิธีติดตั้งและใช้งาน" width="300">
+  <img src="https://raw.githubusercontent.com/AppleBoiy/stardew-thai-translations/main/banners/install_banner.png" alt="วิธีติดตั้งและใช้งาน" width="300">
 </p>
 
 1. ดาวน์โหลดไฟล์สคริปต์ `inject_manifest_descriptions.command`
@@ -138,7 +138,7 @@
 * ปลอดภัย 100% ไม่มีไวรัส เป็นเพียงสคริปต์ Python ที่ใช้แทนที่ข้อความ (Regex Replace) ธรรมดาครับ
 
 <p align="center">
-  <img src="../banners/credits_banner.png" alt="เครดิต" width="300">
+  <img src="https://raw.githubusercontent.com/AppleBoiy/stardew-thai-translations/main/banners/credits_banner.png" alt="เครดิต" width="300">
 </p>
 
 * จัดทำและแปลภาษาไทยด้วยความกาว โดยชุมชนผู้เล่น Stardew Valley ชาวไทย
